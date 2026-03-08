@@ -1,5 +1,7 @@
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Hridoy+Ahmmad;Frontend+Web+Developer;Learning+JavaScript+and+React" />
+<h1 style="font-size: 36px; font-weight: bold; color: #FF0000;">
+  Hi 👋 I'm Hridoy Ahmmad<br>
+  Frontend Web Developer<br>
+  Learning JavaScript and React
 </h1>
 💻 Frontend Developer  
 🚀 Currently learning MERN stack development 
