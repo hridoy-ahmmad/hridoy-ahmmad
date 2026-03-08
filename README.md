@@ -17,5 +17,7 @@
 - Node.js
 - MongoDB
 
----
+🎯 Fun Fact: Coffee lover ☕ | Open-source enthusiast 🌐 | Lifelong learner 📚
+
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy-ahmmad&show_icons=true&theme=radical)
 
