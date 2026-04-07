@@ -1,14 +1,13 @@
-<img width="760" height="100" alt="Tropicana Etsy Banner" src="https://github.com/user-attachments/assets/667ea7ef-7066-4ff1-a677-436cb9444d22" />
 <h1 align="center">Hi 👋, I'm Hridoy Ahmmad</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
+<img width="760" height="100" alt="Tropicana Etsy Banner" src="https://github.com/user-attachments/assets/667ea7ef-7066-4ff1-a677-436cb9444d22" />
 
 ---
 
 ### 👨‍💻 About Me
 - 💻 I love building modern, responsive, and user-friendly web applications  
 - 🌱 Currently learning **Full Stack Development (MERN Stack)**  
-- 🎯 Goal: Become a professional developer & freelancer  
-- ⚡ Fun fact: I enjoy turning ideas into real-world projects  
+- ⚡ Fun fact: I enjoy coffee
 
 ---
 
