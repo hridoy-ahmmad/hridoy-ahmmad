@@ -85,11 +85,6 @@ const hridoyAhmmad = {
   code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
   tools: ["React", "Redux", "Next", "Node.js"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "East-West-University",
-    speaker: "English",
-  },
-  
 }
 
 ⭐️ From [Hridoy Ahmmad]
