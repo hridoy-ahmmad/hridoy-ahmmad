@@ -2,6 +2,8 @@
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
 
 ---
+<img width="1686" height="624" alt="Gemini_Generated_Image_a40deqa40deqa40d" src="https://github.com/user-attachments/assets/d9d82601-de8f-43e3-81dc-a2d8db48c3e8" />
+
 
 ### 👨‍💻 About Me
 - 💻 I love building modern, responsive, and user-friendly web applications  
