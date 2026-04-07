@@ -79,7 +79,7 @@
 </p>
 
 ---
-
+```JS
 const hridoyAhmmad = {
   pronouns: "he/him",
   code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
