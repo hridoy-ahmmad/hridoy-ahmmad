@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hridoy Ahmmad</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from Bangladesh</h3>
-<img width="760" height="100" align="center" alt="Tropicana Etsy Banner" src="https://github.com/user-attachments/assets/667ea7ef-7066-4ff1-a677-436cb9444d22" />
 
 ---
 
