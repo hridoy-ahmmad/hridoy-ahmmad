@@ -80,10 +80,16 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🛒 FurnitureBD – E-commerce website (React + Node + MongoDB)
-- 💡 আরো project add কর এখানে
-
----
+const hridoyAhmmad = {
+  pronouns: "he/him",
+  code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next", "Node.js"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "East-West-University",
+    speaker: "English",
+  },
+  
+}
 
 ⭐️ From [Hridoy Ahmmad]
