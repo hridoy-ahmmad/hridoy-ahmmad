@@ -14,6 +14,7 @@
 - Tailwind
 - React.js
 - express js
+- nextJs
 - Node.js
 - MongoDB
 
