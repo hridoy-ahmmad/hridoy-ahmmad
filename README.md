@@ -1,6 +1,8 @@
 
 <img width="1686" height="624" alt="Gemini_Generated_Image_a40deqa40deqa40d" src="https://github.com/user-attachments/assets/d9d82601-de8f-43e3-81dc-a2d8db48c3e8" />
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hridoy+Ahmmad;MERN+Stack+Developer">
+</h1>
 
 ### 👨‍💻 About Me
 - 💻 I love building modern, responsive, and user-friendly web applications  
