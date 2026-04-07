@@ -1,7 +1,7 @@
 
 <img width="1686" height="624" alt="Gemini_Generated_Image_a40deqa40deqa40d" src="https://github.com/user-attachments/assets/d9d82601-de8f-43e3-81dc-a2d8db48c3e8" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hridoy+Ahmmad;MERN+Stack+Developer🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hridoy+Ahmmad;MERN+Stack+Developer">
 </h1>
 
 ### 👨‍💻 About Me
