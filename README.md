@@ -91,16 +91,7 @@ My mission is to transform ideas into powerful digital products that are fast, s
 
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=neon&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hridoy-ahmmad&theme=transparent&border_radius=5.1)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
