@@ -1,88 +1,106 @@
 
-<img width="1686" height="624" alt="Gemini_Generated_Image_a40deqa40deqa40d" src="https://github.com/user-attachments/assets/d9d82601-de8f-43e3-81dc-a2d8db48c3e8" />
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Hridoy+Ahmmad;MERN+Stack+Developer">
-</h1>
 
-### 👨‍💻 About Me
-- 💻 I love building modern, responsive, and user-friendly web applications  
-- 🌱 Currently learning **Full Stack Development (MERN Stack)**  
-- ⚡ Fun fact: I enjoy coffee
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=F70000&multiline=true&repeat=false&width=435&lines=Hi+%2C+Welcome+to+my+world)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=hridoy-ahmmad&style=for-the-badge)
+<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner (7)" src="https://github.com/user-attachments/assets/a5b15580-e25e-4a74-80ad-8deb573c4737" />
+
 
 ---
 
-### 📫 Contact Me
-- Email: **hridoyp338y@gmail.com**
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=FF0000&width=435&lines=ABOUT+ME)
 
----
-
-### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/hridoyahmmad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoyahmmad" height="30" width="40" />
-</a>
+  👋 Hello! I'm <b>Hridoy Ahmmad</b>, a passionate <b>MERN Stack Web Developer</b> who thrives on building modern, scalable, and high-performance web applications. I specialize in crafting full-stack solutions using <b>MongoDB, Express.js, React.js, and Node.js</b>. 
 </p>
 
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://tailwindcss.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
-</a> 
-</p>
+My mission is to transform ideas into powerful digital products that are fast, secure, and user-friendly. I focus on writing **clean, maintainable code** and creating smooth user experiences that drive business growth.
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hridoy-ahmmad&theme=dark)](https://git.io/streak-stats)
 
----
 
-### 🔥 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=FF0000&width=435&center=true&vCenter=true&lines=TECHNICAL+SKILL" alt="Typing SVG" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-%23FFCA28.svg?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 ---
-```JS
-const hridoyAhmmad = {
-  pronouns: "he/him",
-  code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Redux", "Next", "Node.js"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
 
-⭐️ From [Hridoy Ahmmad]
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=FF0000&width=435&lines=Connect+With+ME)
+
+
+- 💼 **LinkedIn:** [hridoyahmmad](https://www.linkedin.com/in/hridoyahmmad/)
+- 🌐 **Portfolio:**[hridoyahmmad](https://hridoyahmmad.netlify.app/)
+- 📧 **Email:** [hridoyp338y@gmail.com](mailto:hridoyp338y@gmail.com)
+- 💬 **WhatsApp:** [+880 1721-132610](https://wa.me/8801721132610)
+
+## 🚀 The Core Highlights
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Full-Stack Expertise</h4>
+      <ul>
+        <li><b>Frontend Mastery:</b> Dynamic & responsive UI building with <b>React.js</b> and <b>Tailwind CSS</b>.</li>
+        <li><b>Backend Engineering:</b> Scalable server-side logic using <b>Node.js</b> & <b>Express.js</b>.</li>
+        <li><b>Database Management:</b> Data modeling and optimized queries with <b>MongoDB</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Technical Prowess</h4>
+      <ul>
+        <li><b>State Management:</b> Efficient data flow using <b>Context API</b> and modern hooks.</li>
+        <li><b>API Integration:</b> Seamless third-party service and REST API implementation.</li>
+        <li><b>Clean Code:</b> Modular architecture focused on scalability and reusability.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🎯 Current Focus
+> [!IMPORTANT]
+> I am actively seeking opportunities as a **MERN Stack Developer** or **Frontend Engineer** where I can apply my years of practical web foundation to modern JavaScript ecosystems.
+
+---
+
+### 💼 Professional Snapshot
+| Category | Details |
+| :--- | :--- |
+| **Current Vibe** | Building Full-Stack MERN / Next.js applications |
+| **Role Target** | MERN Stack Developer | Full-Stack Developer |
+
+
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=neon&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=neon&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=neon&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
