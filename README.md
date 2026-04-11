@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=F70000&multiline=true&repeat=false&width=435&lines=Hi+%2C+Welcome+to+my+world)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=hridoy-ahmmad&style=for-the-badge)
-<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner (7)" src="https://github.com/user-attachments/assets/a5b15580-e25e-4a74-80ad-8deb573c4737" />
+
+<img width="1584" height="396" alt="Black and White Minimalist Personal Profile LinkedIn Banner (8)" src="https://github.com/user-attachments/assets/b08e97ab-a4ba-4e76-a73d-c65930d6092c" />
 
 
 ---
